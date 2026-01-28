@@ -1,4 +1,4 @@
 - 👋  Hi, I’m [@domenkoscak](https://github.com/domenkoscak)
 - 👀  I’m interested in computer science and programming
-- 🌱  I’m currently learning Python, ReactJS, Flutter
+- 🌱  I’m currently working with ReactJS, Vite, TailwindCSS
 - 📌  Working at [zerodays](https://zerodays.dev)
